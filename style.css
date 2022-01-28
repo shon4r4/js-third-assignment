@@ -1,0 +1,22 @@
+body{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgb(170, 167, 224) 0%, rgba(180, 119, 119, 0.194) 37%, rgb(28, 50, 175) 100%);
+}
+h1{
+    text-align: center;
+}
+form{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    width: 22rem;
+    margin: 0 auto 3rem;
+}
+#imgHolder{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    margin: 0 auto;
+    
+}
+
